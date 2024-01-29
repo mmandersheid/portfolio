@@ -43,7 +43,7 @@ I'm now focusing my passion on software development after gaining a strong found
       <p>
         <span className="italic">When I'm not coding</span>, I love rock-climbing, skateboarding, snowboarding, kayaking, and hiking. 
         I also love painting, watching movies, and playing video games (Factorio). I always enjoy{" "}
-        <span className="font-medium">learning new things</span>.
+        <span className="font-medium">learning new things</span>."
       </p>
     </motion.section>
   );
