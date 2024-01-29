@@ -19,6 +19,11 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
+      "After earning a degree in Business Computer Information Systems, I started a demanding and fulfilling career in the IT sector. Throughout the past 13 years, I've refined my abilities as an IT specialist, offering thorough assistance and troubleshooting for an extensive array of hardware and software problems. I specialize in hardware support and IT infrastructure for different platforms and situations.
+
+I'm now focusing my passion on software development after gaining a strong foundation in technology and problem-solving. I enjoy the challenge of solving problems, and I find the dynamic nature of programming to be really fascinating. I'm currently studying Next.js, Node.js, React, and MongoDB, and I'm always looking to learn more about these technologies.
+
+        {/* 
         After graduating with a degree in{" "}
         <span className="font-medium">Business Computer Information Systems</span>, I decided to pursue my
         passion for programming. My current focus is {" "}
@@ -32,8 +37,9 @@ export default function About() {
         learn new technologies, and am currently looking for a{" "}
         <span className="font-medium">part-time</span> or <span className="font-medium">full-time</span> position as a software
         developer.
-      </p>
-
+        </p>
+  */}
+  </p>
       <p>
         <span className="italic">When I'm not coding</span>, I love rock-climbing, skateboarding, snowboarding, kayaking, and hiking. 
         I also love painting, watching movies, and playing video games (Factorio). I always enjoy{" "}
