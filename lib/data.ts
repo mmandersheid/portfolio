@@ -38,9 +38,9 @@ export const experiencesData = [
     title: "Graduated Northern Michigan University",
     location: "Marquette, MI",
     description:
-      "Graduated with Bachelor's of Science degree Business Computer Information Systems.",
+      "Bachelor's of Science in Business Computer Information Systems.",
     icon: React.createElement(LuGraduationCap),
-    date: "2012",
+    date: "2008-2012",
   },
   {
     title: "Computer Technician - Peninsula InfoMed",
@@ -77,7 +77,7 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
-  {
+  {/*
     title: "CorpComment",
     description:
       "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
@@ -98,6 +98,7 @@ export const projectsData = [
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   },
+*/}
 ] as const;
 
 export const skillsData = [

@@ -19,9 +19,13 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-      "After earning a degree in Business Computer Information Systems, I started a demanding and fulfilling career in the IT sector. Throughout the past 13 years, I've refined my abilities as an IT specialist, offering thorough assistance and troubleshooting for an extensive array of hardware and software problems.
+        "After earning a degree in Business Computer Information Systems, I started a demanding and fulfilling career in the IT sector. Throughout the past 13 years, I've refined my abilities as an IT specialist, offering thorough assistance and troubleshooting for an extensive array of hardware and software problems.
 
-I'm now focusing my passion on software development after gaining a strong foundation in technology and problem-solving. I enjoy the challenge of solving problems, and I find the dynamic nature of programming to be really fascinating. I'm currently studying Next.js, Node.js, React, and MongoDB, and I'm always looking to learn more about these technologies, and more.
+        I'm now focusing my passion on software development after gaining a strong foundation in technology and problem-solving. I find the dynamic nature of programming to be fascinating. 
+        I'm currently studying {" "}
+        <span className="font-medium">
+          React, Next.js, Node.js, and MongoDB
+        </span>, and I'm always looking to learn more about these technologies and others.
 
         {/* 
         After graduating with a degree in{" "}
@@ -42,8 +46,10 @@ I'm now focusing my passion on software development after gaining a strong found
   </p>
       <p>
         <span className="italic">When I'm not coding</span>, I love rock-climbing, skateboarding, snowboarding, kayaking, and hiking. 
-        I also love painting, watching movies, and playing video games (Factorio). I always enjoy{" "}
+        I also love painting, watching movies, and playing video games (Factorio). 
+        <p>I always enjoy{" "}
         <span className="font-medium">learning new things</span>."
+        </p>
       </p>
     </motion.section>
   );
