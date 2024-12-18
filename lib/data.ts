@@ -70,7 +70,7 @@ export const experiencesData = [
     title: "IT Administrator - Return LLC.",
     location: "Remote",
     description:
-      "Remote IT Administrator for a tight-knit, and sustainable regenerative soil company.",
+      "Remote IT Administrator for Return LLC., a passionate team specializing in sustainable, regenerative soil products.",
     icon: React.createElement(CgWorkAlt),
     date: "2023-Present",
   },
