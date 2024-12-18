@@ -77,7 +77,7 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
-  {/*
+  {
     title: "CorpComment",
     description:
       "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
@@ -98,7 +98,7 @@ export const projectsData = [
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   },
-*/}
+
 ] as const;
 
 export const skillsData = [
